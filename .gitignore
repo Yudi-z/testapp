@@ -130,3 +130,5 @@ dmypy.json
 
 # Local Files
 serve_app_log.txt
+
+.idea/
